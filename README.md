@@ -1,27 +1,27 @@
-# Project ByteSculpt
+# Proje ByteSculpt
 
-## Introduction
-Project ByteSculpt is a cutting-edge software education system designed to empower developers with a strong foundation, practical skills, and a collaborative learning environment. This repository contains the essential information to get started with ByteSculpt.
+## Tanıtım
+ByteSculpt Projesi, geliştiricilere sağlam bir temel, pratik beceriler ve işbirliğine dayalı bir öğrenme ortamı ile güç kazandırmayı amaçlayan bir yazılım eğitim sistemidir.
 
-## Getting Started
-### Phase 1: The Fundamentals Exam
-To establish a solid understanding of fundamental programming concepts, participants will take a concise exam covering essential topics.
+## Başlarken
+### Aşama 1: Temel Bilgiler Sınavı
+Temel programlama kavramlarını sağlam bir anlayışla oluşturmak için katılımcılar, temel konuları kapsayan özlü bir sınavı geçecekler.
 
-### Phase 2: JavaScript Syntax Course
-Upon passing the fundamentals exam, participants will dive into a specialized JavaScript syntax course. The module covers key concepts through a mix of theoretical lessons and hands-on exercises.
+### Aşama 2: JavaScript Sözdizimi Kursu
+Temel sınavı geçtikten sonra katılımcılar, özel bir JavaScript sözdizimi kursuna dalacaklar. Bu aşama, JavaScript'in temel kavramlarına odaklanarak, dilin güçlü yanlarını anlamalarını sağlayacak teorik dersler ve pratik alıştırmalar içermektedir.
 
-### Phase 3: Open Source Projects Kickoff
-With a solid understanding of JavaScript syntax, participants will contribute to open-source projects aimed at streamlining educational processes. These projects include tools for educators and students.
+> Not: JavaScript, geniş bir kullanıcı kitlesi için uygun bir dil olma amacı güder. Bu aşamada, katılımcılar dilin sunduğu olanakları daha iyi kavrayacak ve uygulamalı deneyim elde edecekler.
 
-#### Week 1 Projects
-- **Teacher Dashboard**: A centralized platform for managing courses, assignments, and student progress.
-- **Student Portal**: An interactive gateway for students to access materials and track their academic journey.
-- **CodeCollab**: A dynamic collaborative coding environment.
+### Aşama 3: Açık Kaynak Projeler Başlangıcı
+JavaScript sözdizimini sağlam bir şekilde anladıktan sonra katılımcılar, eğitim süreçlerini kolaylaştırmayı amaçlayan açık kaynak projelere katkıda bulunacaklar. Bu projeler, eğitmenler ve öğrenciler için araçları içerir.
 
-### Phase 4: Knowledge Sharing Initiative
-Participants who completed the exam and JavaScript syntax course will mentor newcomers, fostering a supportive learning community.
+#### 1. Ay Projeleri
+- **Öğretmen Kontrol Paneli**: Kursları, ödevleri ve öğrenci ilerlemesini yönetmek için merkezi bir platform.
 
-## Conclusion
-Project ByteSculpt is more than a learning platform; it's a community-driven ecosystem propelling individuals towards programming excellence. Join us in redefining how software education is delivered and experienced.
+### Aşama 4: Bilgi Paylaşımı İnisiyatifi
+Sınavı ve JavaScript sözdizimi kursunu tamamlayan katılımcılar, yeni gelenlere rehberlik edecek ve destekleyici bir öğrenme topluluğu oluşturacaklar.
 
-Feel free to contribute and enhance ByteSculpt's impact on the world of software development!
+## Sonuç
+ByteSculpt Projesi, bir öğrenme platformundan daha fazlası; bireyleri programlama mükemmelliği yolunda itmekte olan topluluk odaklı bir ekosistemdir. Bize katılarak yazılım geliştirmenin dünyasında ByteSculpt'ın etkisini artırma yolunda katkıda bulunun!
+
+Gönül rahatlığıyla katkıda bulunun ve ByteSculpt'ın yazılım geliştirmenin dünyasındaki etkisini artırın!
