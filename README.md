@@ -14,7 +14,7 @@ Açık kaynak programlarında yazılım uygulamalarını yaparak ve yaşayarak �
 
 2. **Açık Kaynak Projeler Başlangıcı:** JavaScript sözdizimini sağlam bir şekilde anladıktan sonra katılımcılar, eğitim süreçlerini kolaylaştırmayı amaçlayan açık kaynak projelere katkıda bulunacaklar. Bu projeler, eğitmenler ve öğrenciler için destekleyici araçlar üretecektir.
 
-3. **Bilgi Paylaşımı İnisiyatifi:** JavaScript sözdizimi kursunu tamamlayan katılımcılar, yeni gelenlere rehberlik edecek ve destekleyici bir öğrenme topluluğu oluşturacaklar.
+3. **Bilgi Paylaşımı İnisiyatifi:** Geliṣmiṣ algoritma bilgisine sahip olan katılımcılar, yeni gelenlere rehberlik edecek ve destekleyici bir öğrenme topluluğu oluşturacaklar.
 
 ## Sonuç
 
