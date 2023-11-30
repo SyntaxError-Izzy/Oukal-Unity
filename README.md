@@ -3,10 +3,10 @@
 ## Tanıtım
 ByteSculpt Projesi, geliştiricilere sağlam bir temel, pratik beceriler ve işbirliğine dayalı bir öğrenme ortamı ile güç kazandırmayı amaçlayan bir yazılım eğitim sistemidir.
 
-## Hedef:
+## Hedef
 Açık kaynak programlarında yazılım uygulamalarını yaparak ve yaşayarak öğrenmek, öğrenciler arasındaki farklılakları kullanarak ürünler ortaya çıkartmak ve katılan öğrencilerin sosyal ve bilişsel kazanımlar geliştirmesini sağlamak.
 
-## Yöntem:
+## Yöntem
 
 ### JavaScript Sözdizimi Kursu
 Temel sınavı geçtikten sonra katılımcılar, özel bir JavaScript sözdizimi kursuna katılacaklar. Bu aşama, JavaScript'in temel kavramlarına odaklanarak, dilin güçlü yanlarını anlamalarını sağlayacak teorik dersler ve pratik alıştırmalar içermektedir.
