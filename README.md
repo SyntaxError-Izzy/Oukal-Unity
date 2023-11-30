@@ -1,4 +1,4 @@
-# Project ByteSculpt: Revolutionizing Software Education
+# Project ByteSculpt
 
 ## Introduction
 Project ByteSculpt is a cutting-edge software education system designed to empower developers with a strong foundation, practical skills, and a collaborative learning environment. This repository contains the essential information to get started with ByteSculpt.
